@@ -5,7 +5,7 @@ description: >
   Documentation for RosterNet's' Federated Provider Directory API.
 
 baseurl: "/site" # the subpath of your site, e.g. /blog/
-url: https://rosternet.github.io/site # the base hostname & protocol for your site
+url: https://rosternet.github.io # the base hostname & protocol for your site
 git_address: https://github.com/rosterNet/rosternet.github.io
 git_edit_address: https://github.com/rosterNet/rosternet.github.io/blob/master
 
