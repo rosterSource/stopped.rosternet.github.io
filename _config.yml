@@ -1,13 +1,13 @@
 # Site settings
-title: API Documentation
-email: your-email@domain.com
+title: RosterNet API
+email: shahid@shah.org
 description: >
-  Documentation for [company name]'s' [name of API].
+  Documentation for RosterNet's' Federated Provider Directory API.
 
-baseurl: "/mvd-template" # the subpath of your site, e.g. /blog/
-url: https://hillaryfraley.github.io/mvd-template # the base hostname & protocol for your site
-git_address: https://github.com/hillaryfraley/mvd-template
-git_edit_address: https://github.com/hillaryfraley/mvd-template/blob/gh-pages
+baseurl: "/site" # the subpath of your site, e.g. /blog/
+url: https://rosternet.github.io/site # the base hostname & protocol for your site
+git_address: https://github.com/rosterNet/rosternet.github.io
+git_edit_address: https://github.com/rosterNet/rosternet.github.io/blob/master
 
 # Theme options from https://bootswatch.com/
 # comment-out to use default Bootstrap
