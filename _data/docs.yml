@@ -1,0 +1,13 @@
+- title: Documentation
+  docs:
+  - home
+  - workflows
+  - code_samples
+  - mdreference
+  - openapi
+
+- title: More information
+  docs:
+  - mvd_checklist
+  - publishing_options
+
