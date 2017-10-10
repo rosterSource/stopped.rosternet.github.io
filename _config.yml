@@ -1,56 +1,32 @@
-# Site settings
-title: RosterNet API
-email: shahid@shah.org
-description: >
-  Documentation for RosterNet's' Federated Provider Directory API.
+url: "https://rosternet.github.io/"
+baseurl: ""
 
-baseurl: "/site" # the subpath of your site, e.g. /blog/
-url: https://rosternet.github.io # the base hostname & protocol for your site
-git_address: https://github.com/rosterNet/rosternet.github.io
-git_edit_address: https://github.com/rosterNet/rosternet.github.io/blob/master
+title: RosterNet
 
-# Theme options from https://bootswatch.com/
-# comment-out to use default Bootstrap
-bootwatch: flatly
+# Short description of your site
+description: Open Source Provider Directory Software and Data Network
 
-# Build settings
+# --- Navigation bar options --- #
+
+# List of links in the navigation bar
+navbar-links:
+  Home: "https://rosternet.github.io/"
+  RosterNet Platform: overview
+  For All Participants: help
+  Provider Roster PaaS: example
+
+# --- Footer options --- #
+
+# Change all these values or delete the ones you don't want.
+# Important: you must keep the "name" parameter, everything else you can remove
+author:
+  name: RosterNet
+  email: "rosternet@rosternet.com"
+
+
+# Fill in your Google Analytics ID to track your website using GA
+google_analytics: ""
+
+timezone: "America/Toronto"
 markdown: kramdown
 highlighter: rouge
-gems:
-  - jekyll-feed
-  - jekyll-redirect-from
-  - jekyll-seo-tag
-  - jekyll-sitemap
-
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - .idea/
-  - .gitignore
-  - README.md
-timezone: US/Eastern
-defaults:
-
-- scope:
-    path: _docs
-    type: docs
-  values:
-    layout: docs
-    sectionid: docs
-    seo:
-      type: "WebPage"
-
-- scope:
-    path: _about
-    type: about
-  values:
-    layout: about
-    sectionid: about
-
-collections:
-  docs:
-    permalink: /:collection/:path/
-    output: true
-  about:
-    permalink: /:collection/:path/
-    output: true
