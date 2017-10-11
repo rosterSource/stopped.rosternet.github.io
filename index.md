@@ -3,7 +3,7 @@ layout: base
 title: RosterNet
 subtitle: Open Source Provider Directory Software and Data Network
 css: /css/index.css
-share-img: http://deanattali.com/shinyjs/img/shinyjs.PNG
+share-img: 
 ---
 
 <div id="page-header">
