@@ -11,7 +11,7 @@ description: Open Source Provider Directory Software and Data Network
 # List of links in the navigation bar
 navbar-links:
   Home: "https://rosternet.github.io/"
-  RosterNet Platform: overview
+  Specification : overview
   For All Participants: help
   Provider Roster PaaS: example
 
