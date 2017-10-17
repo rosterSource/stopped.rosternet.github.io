@@ -30,7 +30,7 @@ title: Specifications
 | 2 | Required | FirstName| FirstName   |   |
 | 3 | Required | MiddleName| MiddleName |   |
 | 4 | Required | Suffix| Suffix         |   |
-| 5 | Required | TaxIDinduvidual | Tax ID number associated with provider (individual practitioner) | Y*         |
+| 5 | Required | TaxIDindividual | Tax ID number associated with provider (individual practitioner) | Y*         |
 | 6 | Required | TaxIDinstitution |Tax ID number associated with provider (institution) For employers, including state and local government agencies and non profit organizations , TIN is the IRS issued employer identification number (EIN). EINS are public information per <a href="https://apps.fcc.gov/coresWeb/html/tin.html">FCC</a> |  |
 | 7 | Required | NPI| NPI |    |
 | 8 | Required | HCPT Spec Code| Health Care PRovider Taxonomy- Industry standard speciality codes (for complete code list  <a href= "http://www.wpc-edi.com/reference/codelists/healthcare/health-care-provider-taxonomy-code-set/"> see </a> ) |   |
