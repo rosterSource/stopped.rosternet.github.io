@@ -13,7 +13,7 @@ navbar-links:
   Home: "https://rosternet.github.io/"
   Specification : 
   - Data Specification : dataspecification
-  - Process WorkFlow : processworkflow
+  - Process Workflow : processworkflow
   For All Participants: help
   Provider Roster PaaS: example
 
