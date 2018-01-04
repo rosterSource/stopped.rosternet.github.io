@@ -16,7 +16,7 @@ share-img:
     <a id="header-btn-right" class="btn" href="{{ site.baseurl }}/example">Get Started</a>
   </div>
   <div id="header-credits">
-    <a href="#">View on GitHub</a>
+    <a href="https://github.com/rosterNet">View on GitHub</a>
   </div>
 </div>
 

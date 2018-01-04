@@ -66,7 +66,7 @@ title: Specifications
 | 23| High | ProviderDecreaseDate| Date of the provider decreased         |   |
 | 24| High | ProviderProficiencyEnglish| Provider's proficiency in the English language   |   |
 | 25| High | ProviderOtherLanguages| Languages spoken by the provider (other than English)   |   |
-| 26| High | SiteProficiencyEnlgish| Staff proficiency in the English language. |   |
+| 26| High | SiteProficiencyEnglish| Staff proficiency in the English language. |   |
 
 
 <br/>
