@@ -74,5 +74,3 @@ Significant cost savings are achieved through federated roster management shared
     </a>
   </p>
 </div>
-
-
